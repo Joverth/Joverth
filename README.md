@@ -199,9 +199,9 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=BigStar-2024&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
-< activity graph bigstar-app end >
+<!-- < activity graph bigstar-app end > -->
 
-< ## Tools >
+<!-- < ## Tools > -->
 
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
