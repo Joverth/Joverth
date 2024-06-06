@@ -4,7 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+Full+Stack+Developer;Senior+Software+Engineer)]()
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
-
+<img align="right" alt="coding" width="400"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+>
 ## Skills
 
 - 🌱 Frontend : React, Next, Web3.js, Angular, Vue, Nuxt, Jquery, Material UI, Bootstrap, TailwindCSS
