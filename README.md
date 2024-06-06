@@ -13,6 +13,15 @@
 - 💬 Language : HTML, CSS, Javascript, Typescript, Python, PHP, C++, C#, Go
 - 🔥 CMS: WordPress, Shopify, Wix, Framer, Webflow
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NurhayatYurtaslan/NurhayatYurtaslan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NurhayatYurtaslan/NurhayatYurtaslan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NurhayatYurtaslan/NurhayatYurtaslan/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+<p align="center">
+
 < ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=Clojure)
