@@ -201,8 +201,8 @@
 </p>
 <!-- < activity graph bigstar-app end > -->
 
-<!-- < ## Tools > -->
-
+<b> 📲 Tools </b>
+<br>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="45" src="https://cdn.worldvectorlogo.com/logos/next-js.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
